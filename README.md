@@ -95,6 +95,9 @@ HLT;
 ```
 ## Output  
  ![OUTPUT](https://github.com/dharanielango/EXPERIMENT--01-ALP-FOR-8086/blob/main/1.png)
+ ![OUTPUT](https://github.com/dharanielango/EXPERIMENT--01-ALP-FOR-8086/blob/main/2.png)
+ ![OUTPUT](https://github.com/dharanielango/EXPERIMENT--01-ALP-FOR-8086/blob/main/3.png)
+ ![OUTPUT](https://github.com/dharanielango/EXPERIMENT--01-ALP-FOR-8086/blob/main/4.png)
 ## Subtraction   of 8 bit numbers  ALP 
 ```
  SUBRACTION
@@ -107,7 +110,11 @@ SUB AH,BH;
 MOV CX,AX;
 HLT;
 ```
-## Output  
+## Output 
+![OUTPUT](https://github.com/dharanielango/EXPERIMENT--01-ALP-FOR-8086/blob/main/5.png)
+ ![OUTPUT](https://github.com/dharanielango/EXPERIMENT--01-ALP-FOR-8086/blob/main/6.png)
+ ![OUTPUT](https://github.com/dharanielango/EXPERIMENT--01-ALP-FOR-8086/blob/main/7.png)
+
 ## Multiplication alp 
 ```
 MULTIPLICATION
@@ -122,10 +129,14 @@ MOV AX,00;
 HLT;
 ```
  ## Output  
-
+![OUTPUT](https://github.com/dharanielango/EXPERIMENT--01-ALP-FOR-8086/blob/main/8.png)
+ ![OUTPUT](https://github.com/dharanielango/EXPERIMENT--01-ALP-FOR-8086/blob/main/9.png)
+ ![OUTPUT](https://github.com/dharanielango/EXPERIMENT--01-ALP-FOR-8086/blob/main/00.png)
+ ![OUTPUT](https://github.com/dharanielango/EXPERIMENT--01-ALP-FOR-8086/blob/main/11.png)
 
 ## Division alp 
-```DIVISION
+```
+DIVISION:
  
 
 org 100h
@@ -138,7 +149,10 @@ HLT;
 ```
 
 ## Output  
-
+![OUTPUT](https://github.com/dharanielango/EXPERIMENT--01-ALP-FOR-8086/blob/main/22.png)
+ ![OUTPUT](https://github.com/dharanielango/EXPERIMENT--01-ALP-FOR-8086/blob/main/33.png)
+ ![OUTPUT](https://github.com/dharanielango/EXPERIMENT--01-ALP-FOR-8086/blob/main/44.png)
+ ![OUTPUT](https://github.com/dharanielango/EXPERIMENT--01-ALP-FOR-8086/blob/main/55.png)
 
 ## Result :
  
