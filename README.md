@@ -94,7 +94,7 @@ HLT;
 
 ```
 ## Output  
- ![OUTPUT](./https://github.com/dharanielango/EXPERIMENT--01-ALP-FOR-8086/blob/main/1.png)
+ ![OUTPUT](https://github.com/dharanielango/EXPERIMENT--01-ALP-FOR-8086/blob/main/1.png)
 ## Subtraction   of 8 bit numbers  ALP 
 ```
  SUBRACTION
